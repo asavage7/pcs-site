@@ -1,2 +1,2 @@
-# pcs-site
+# PCS Website
 The Official PCS Website.
